@@ -165,7 +165,7 @@
         <janus.version>0.6.1</janus.version>
         <spring-boot.version>2.7.6</spring-boot.version>
         <gremlin.version>3.5.2</gremlin.version>
-        <springdoc.version>1.6.12</springdoc.version>
+        <springdoc.version>1.8.0</springdoc.version>
         <spring-data.version>2.7.6</spring-data.version>
         <spring.version>5.3.24</spring.version>
         <spring-security.version>5.8.0</spring-security.version>
@@ -3855,7 +3855,7 @@
                         <license implementation="org.apache.rat.analysis.license.SimplePatternBasedLicense">
                             <licenseFamilyCategory>SPDX</licenseFamilyCategory>
                             <licenseFamilyName>SPDX-License-Identifier: Apache-2.0</licenseFamilyName>
-                            <notes></notes>
+                            <notes/>
                             <patterns>
                                 <pattern>SPDX-License-Identifier: Apache-2.0</pattern>
                             </patterns>
@@ -3863,7 +3863,7 @@
                         <license implementation="org.apache.rat.analysis.license.SimplePatternBasedLicense">
                             <licenseFamilyCategory>SPDX</licenseFamilyCategory>
                             <licenseFamilyName>SPDX-License-Identifier: CC-BY-4.0</licenseFamilyName>
-                            <notes></notes>
+                            <notes/>
                             <patterns>
                                 <pattern>SPDX-License-Identifier: CC-BY-4.0</pattern>
                             </patterns>

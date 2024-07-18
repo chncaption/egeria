@@ -222,7 +222,7 @@
         <lombok-plugin.version>1.18.20.0</lombok-plugin.version>
         <javax.servlet.version>4.0.1</javax.servlet.version>
         <thrift.version>0.17.0</thrift.version>
-        <elasticsearch.version>8.5.2</elasticsearch.version>
+        <elasticsearch.version>8.12.1</elasticsearch.version>
         <hibernate-validator.version>8.0.0.Final</hibernate-validator.version>
         <!-- Versions of plugins -->
         <enunciate-maven-plugin.version>2.10.1</enunciate-maven-plugin.version>
@@ -3855,7 +3855,7 @@
                         <license implementation="org.apache.rat.analysis.license.SimplePatternBasedLicense">
                             <licenseFamilyCategory>SPDX</licenseFamilyCategory>
                             <licenseFamilyName>SPDX-License-Identifier: Apache-2.0</licenseFamilyName>
-                            <notes></notes>
+                            <notes/>
                             <patterns>
                                 <pattern>SPDX-License-Identifier: Apache-2.0</pattern>
                             </patterns>
@@ -3863,7 +3863,7 @@
                         <license implementation="org.apache.rat.analysis.license.SimplePatternBasedLicense">
                             <licenseFamilyCategory>SPDX</licenseFamilyCategory>
                             <licenseFamilyName>SPDX-License-Identifier: CC-BY-4.0</licenseFamilyName>
-                            <notes></notes>
+                            <notes/>
                             <patterns>
                                 <pattern>SPDX-License-Identifier: CC-BY-4.0</pattern>
                             </patterns>

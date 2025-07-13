@@ -135,7 +135,7 @@
 
 
     <properties>
-        <open-metadata.version>${project.version}</open-metadata.version>
+        <open-metadata.version>4.0</open-metadata.version>
 
         <!-- Level of Java -->
         <maven.compiler.source>11</maven.compiler.source>
@@ -3855,7 +3855,7 @@
                         <license implementation="org.apache.rat.analysis.license.SimplePatternBasedLicense">
                             <licenseFamilyCategory>SPDX</licenseFamilyCategory>
                             <licenseFamilyName>SPDX-License-Identifier: Apache-2.0</licenseFamilyName>
-                            <notes></notes>
+                            <notes/>
                             <patterns>
                                 <pattern>SPDX-License-Identifier: Apache-2.0</pattern>
                             </patterns>
@@ -3863,7 +3863,7 @@
                         <license implementation="org.apache.rat.analysis.license.SimplePatternBasedLicense">
                             <licenseFamilyCategory>SPDX</licenseFamilyCategory>
                             <licenseFamilyName>SPDX-License-Identifier: CC-BY-4.0</licenseFamilyName>
-                            <notes></notes>
+                            <notes/>
                             <patterns>
                                 <pattern>SPDX-License-Identifier: CC-BY-4.0</pattern>
                             </patterns>
